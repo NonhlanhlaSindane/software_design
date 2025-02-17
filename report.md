@@ -1,1 +1,3 @@
-I created a new repository, a new branch, and added new files in my repository.
+I created a new a GitHub repository, added multiple files,  
+made commits, managed branches, and deployed a web page using GitHub Pages.  
+
